@@ -8,6 +8,9 @@ defaults write -g NSShowAppCentricOpenPanelInsteadOfUntitledFile -bool false
 # Mark Pro as default
 # Shell -> When Shell Exits -> Close if the shell exited cleanly   
 # Shell -> Ask before closing only if tmux and screen are active
+# Window -> Rows: 100
+# Window -> Check "Command Key"
+# Window -> Verify scrollback is set to limit to available memory
 
 # Install Jumpcut http://jumpcut.sourceforge.net/
 # Install ShiftIt https://github.com/fikovnik/ShiftIt
