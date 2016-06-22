@@ -25,6 +25,10 @@ defaults write -g NSShowAppCentricOpenPanelInsteadOfUntitledFile -bool false
 # System Prefereces -> Energy Saver -> Power Adapter -> Turn display off after 3 hours
 # System Prefereces -> Energy Saver -> Battery -> Turn display off after 30 minutes
 
+# System Preferences -> Keyboard -> Keyboard shortcuts -> Application Shortcuts.
+#  Now add Outlook/Entourage to the list and make sure that "Menu title" states "Send". After that choose whatever cryptic 
+#  shortcut you are sure you will never accidentally hit. Quit and relaunch Outlook 2011 for the change to take effect.
+
 
 
 # Extract personal keys and scripts tarball
